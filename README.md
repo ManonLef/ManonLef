@@ -30,7 +30,7 @@ I'm currently learning about TDD. For my testing practice I'm using Jest
 
 [![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
 
-## Tools I Have Been using Daily
+## Tools I Have Been Using Daily
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,webpack,github,vscode,photoshop,illustrator)](https://skillicons.dev)
 
