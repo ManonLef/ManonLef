@@ -39,3 +39,5 @@ I'm currently learning about TDD. For my testing practice, I'm using Jest.
 
 #### Things that keep me motivated and joyful are (amongst others);
 intellectual challenges / learning new things, a good cup of coffee, being able to share knowledge, genuine social connections, finding a captivating game, the smell of fresh rain, a good sense of innocent but witty humor, maker tools (our house has a workplace for making all kinds of printed things), purposeful listening to music, exploring new things and locations, flowers.
+
+<a href="https://www.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_14723886.htm#query=female%20programmer&position=0&from_view=keyword&track=ais">Image by svstudioart</a> on Freepik
