@@ -24,9 +24,9 @@ Some recent Projects I've worked on:
 - [Weather App](https://github.com/ManonLef/weather-app): Mainly to get a feel for working with API's and async code
 - [Binary Search Tree](https://github.com/ManonLef/bst): I'm sharing this one instead of my Knights Travails for I feel like the BST exercise was the most elaborate of the Computer Science projects to figure out.
 
-## Currently learning
+## Currently Learning
 
-I'm currently learning about TDD. For my testing practice I'm using Jest
+I'm currently learning about TDD. For my testing practice, I'm using Jest.
 
 [![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
 
