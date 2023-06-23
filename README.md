@@ -15,24 +15,25 @@ I am still running my own business(es). One is in type, design, print, and illus
 
 During my programming journey, I try to help out fellow learners as I can either through Discord or by contributing to open-source projects aimed at teaching.  
 
-Things that keep me motivated and joyful are (amongst others);
-- intellectual challenges like learning new things
-- a good cup of coffee
-- being able to share knowledge
-- genuine social connections
-- finding a captivating game
-- the smell of fresh rain
-- a good sense of innocent but witty humor
-- maker tools (our house has a workplace for making all kinds of printed things)
-- purposeful listening to music
-- exploring new things and locations
-
-## Currently Learning
+## Recent Progress
 
 I'm following along with [The Odin Project Curriculum](https://github.com/TheOdinProject/curriculum) which is aimed at full stack development and instilling the programmer mindset, honing problem-solving skills and mainly building things on your own, from scratch, utilizing the documentation and your own research. 
+
+Some recent Projects I've worked on:
+- [Todo](https://github.com/ManonLef/To-Do-App): This one really was the first big project I did. Lots of code, modules and UI decisions were made
+- [Weather App](https://github.com/ManonLef/weather-app): Mainly to get a feel for working with API's and async code
+- [Binary Search Tree](https://github.com/ManonLef/bst): I'm sharing this one instead of my Knights Travails for I feel like the BST exercise was the most elaborate of the Computer Science projects to figure out.
+
+## Currently learning
+
+I'm currently learning about TDD. For my testing practice I'm using Jest
 
 [![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
 
 ## Tools I Have Been using Daily
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,webpack,github,vscode,photoshop,illustrator)](https://skillicons.dev)
+
+
+#### Things that keep me motivated and joyful are (amongst others);
+intellectual challenges / learning new things, a good cup of coffee, being able to share knowledge, genuine social connections, finding a captivating game, the smell of fresh rain, a good sense of innocent but witty humor, maker tools (our house has a workplace for making all kinds of printed things), purposeful listening to music, exploring new things and locations, flowers.
