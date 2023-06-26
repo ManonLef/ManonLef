@@ -28,7 +28,8 @@ Some recent Projects I've worked on:
 
 ## Currently Learning
 
-I'm currently learning about TDD. For my testing practice, I'm using Jest.
+I'm currently learning about TDD. For my testing practice, I'm using Jest. I'm in the process of developing a [BattleShip](https://github.com/ManonLef/battleship) game which will be the final testing project before I move on to React
+
 
 [![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
 
