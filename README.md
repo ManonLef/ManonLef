@@ -11,11 +11,11 @@
 
 ## About Me
 
-I've been a commercial pilot and aviation instructor during most of my working years. Now that I am not flying airplanes anymore I decided to look into an equally fulfilling career change. I feel passionate about programming and am absolutely thrilled I found that new passion.
+I've been a commercial pilot and aviation instructor during most of my working years. Now that I am not flying airplanes anymore I have decided to look into an equally fulfilling career change. I feel passionate about programming and am absolutely thrilled I found that new passion.
 
 I am still running my own business(es). One is in type, design, print, and illustration and the other is aviation consultancy and teaching. You can however find me writing code and learning new tools mostly daily ever since I've set my mind to becoming a hirable programmer. 
 
-During my programming journey, I try to help out fellow learners as I can either through Discord or by contributing to open-source projects aimed at teaching.  
+During my programming journey, I try to help out fellow learners as I can, either through Discord, or by contributing to open-source projects aimed at teaching. In June 2023 I became part of the maintainer team for [The Odin Project](https://github.com/TheOdinProject) and I am honoured, humbled and excited to be able to contribute to such an amazing resource alongside professionals and fellow contributors in the field.
 
 ## Recent Progress
 
