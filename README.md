@@ -28,17 +28,19 @@ Some recent Projects I've worked on:
 
 ## Currently Learning
 
-I'm currently learning about TDD. For my testing practice, I'm using Jest. I'm in the process of developing a [BattleShip](https://github.com/ManonLef/battleship) game which will be the final testing project before I move on to React
+I've just finished my [BattleShip](https://github.com/ManonLef/battleship) game which was a project to put in practice working with Jest. Currently I'm on the advanced Git section before I move on to React.
 
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
+## Tools I Have Been Using So Far
 
-## Tools I Have Been Using Daily
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,webpack,jest,github,vscode)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,webpack,github,vscode,photoshop,illustrator)](https://skillicons.dev)
+## Tools I Have Prior Experience With:
 
+[![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,blender)](https://skillicons.dev)
 
-#### Things that keep me motivated and joyful are (amongst others);
+### Things that keep me motivated and joyful are (amongst others);
 intellectual challenges / learning new things, a good cup of coffee, being able to share knowledge, genuine social connections, finding a captivating game, the smell of fresh rain, a good sense of innocent but witty humor, maker tools (our house has a workplace for making all kinds of printed things), purposeful listening to music, exploring new things and locations, flowers.
 
 <a href="https://www.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_14723886.htm#query=female%20programmer&position=0&from_view=keyword&track=ais">Image by svstudioart</a> on Freepik
