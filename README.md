@@ -25,6 +25,7 @@ Some recent Projects I've worked on:
 - [Todo](https://github.com/ManonLef/To-Do-App): This one really was the first big project I did. Lots of code, modules and UI decisions were made
 - [Weather App](https://github.com/ManonLef/weather-app): Mainly to get a feel for working with API's and async code
 - [Binary Search Tree](https://github.com/ManonLef/bst): I'm sharing this one instead of my Knights Travails for I feel like the BST exercise was the most elaborate of the Computer Science projects to figure out.
+- [BattleShip](https://github.com/ManonLef/battleship): A project that starts out with writing tests in Jest
 
 ## Currently Learning
 
@@ -36,7 +37,7 @@ I've just finished my [BattleShip](https://github.com/ManonLef/battleship) game 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,webpack,jest,github,vscode)](https://skillicons.dev)
 
-## Tools I Have Prior Experience With:
+## Some of the Tools I Have Prior Experience With
 
 [![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,blender)](https://skillicons.dev)
 
