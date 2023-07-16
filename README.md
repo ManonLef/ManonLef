@@ -29,9 +29,7 @@ Some recent Projects I've worked on:
 
 ## Currently Learning
 
-I've just finished my [BattleShip](https://github.com/ManonLef/battleship) game which was a project to put in practice working with Jest. Currently I'm on the advanced Git section before I move on to React.
-
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+I've just finished my [BattleShip](https://github.com/ManonLef/battleship) game which was a project to put into practice working with Jest. I've finished the advanced Git section and am starting out with some advanced HTML and CSS before moving into React.
 
 ## Tools I Have Been Using So Far
 
