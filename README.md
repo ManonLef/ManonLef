@@ -31,7 +31,7 @@ Some recent Projects I've worked on:
 
 I've recently finished my [BattleShip](https://github.com/ManonLef/battleship) game which was a project to put into practice working with Jest. I also completed the advanced Git module, and the advanced HTML/CSS module which covered responsiveness, animations, and accessibility. 
 
-Currently I'm learning (and enjoying) React, Vite and Tailwind. My first project using these tools is in the making. It's a [WIP CV Builder app](https://github.com/ManonLef/cv-app).
+Currently I'm learning (and enjoying) React, Vite and Tailwind. My first project finished with these tools is a [CV Builder app](https://github.com/ManonLef/cv-app).
 
 [![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind)](https://skillicons.dev)
 
