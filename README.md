@@ -26,12 +26,13 @@ Some recent Projects I've worked on:
 - [Weather App](https://github.com/ManonLef/weather-app): Mainly to get a feel for working with API's and async code
 - [Binary Search Tree](https://github.com/ManonLef/bst): I'm sharing this one instead of my Knights Travails for I feel like the BST exercise was the most elaborate of the Computer Science projects to figure out.
 - [BattleShip](https://github.com/ManonLef/battleship): A project that starts out with writing tests in Jest
+- [HeartStone themed memory game](https://github.com/ManonLef/memory-card) using Vite and React
 
 ## Currently Learning
 
 I've recently finished my [BattleShip](https://github.com/ManonLef/battleship) game which was a project to put into practice working with Jest. I also completed the advanced Git module, and the advanced HTML/CSS module which covered responsiveness, animations, and accessibility. 
 
-Currently I'm learning (and enjoying) React, Vite and Tailwind. My first project finished with these tools is a [CV Builder app](https://github.com/ManonLef/cv-app) and I'm building a [memory game](https://github.com/ManonLef/memory-card).
+Currently I'm learning (and enjoying) React, Vite and Tailwind. I made a [CV Builder app](https://github.com/ManonLef/cv-app) and a [memory game](https://github.com/ManonLef/memory-card). Now I'm over half of the React path with routing, testing and a project coming up to finish the frontend. 
 
 [![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind)](https://skillicons.dev)
 
