@@ -22,17 +22,17 @@ During my programming journey, I try to help out fellow learners as I can, eithe
 I'm following along with [The Odin Project Curriculum](https://github.com/TheOdinProject/curriculum) which is aimed at full stack development and instilling the programmer mindset, honing problem-solving skills and mainly building things on your own, from scratch, utilizing the documentation and your own research. 
 
 Some recent Projects I've worked on:
-- [Todo](https://github.com/ManonLef/To-Do-App): This one really was the first big project I did. Lots of code, modules and UI decisions were made
+- Latest: [HeartStone themed memory game](https://github.com/ManonLef/memory-card) using Vite and React
+- [CV Builder app](https://github.com/ManonLef/cv-app) with React
 - [Weather App](https://github.com/ManonLef/weather-app): Mainly to get a feel for working with API's and async code
 - [Binary Search Tree](https://github.com/ManonLef/bst): I'm sharing this one instead of my Knights Travails for I feel like the BST exercise was the most elaborate of the Computer Science projects to figure out.
 - [BattleShip](https://github.com/ManonLef/battleship): A project that starts out with writing tests in Jest
-- [HeartStone themed memory game](https://github.com/ManonLef/memory-card) using Vite and React
 
 ## Currently Learning
 
-I've recently finished my [BattleShip](https://github.com/ManonLef/battleship) game which was a project to put into practice working with Jest. I also completed the advanced Git module, and the advanced HTML/CSS module which covered responsiveness, animations, and accessibility. 
+I've recently finished the advanced Git module, and the advanced HTML/CSS module which covered responsiveness, animations, and accessibility. 
 
-Currently I'm learning (and enjoying) React, Vite and Tailwind. I made a [CV Builder app](https://github.com/ManonLef/cv-app) and a [memory game](https://github.com/ManonLef/memory-card). Now I'm over half of the React path with routing, testing and a project coming up to finish the frontend. 
+Currently I'm learning about testing in React with Vitest. I'm over halfway of the React path with routing, testing and a project coming up to finish the frontend. 
 
 [![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind)](https://skillicons.dev)
 
