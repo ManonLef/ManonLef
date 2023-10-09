@@ -36,9 +36,7 @@ Some recent Projects I've worked on:
 
 ## Currently Learning
 
-I've recently finished the advanced Git module, and the advanced HTML/CSS module which covered responsiveness, animations, and accessibility. 
-
-Currently I'm learning about testing in React with Vitest. I'm over halfway of the React path with routing, testing and a project coming up to finish the frontend. 
+Currently I'm learning about routing, fetching data in React and testing with Vitest. I'm close to the final project for React which will be an e-commerce site project.
 
 [![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind)](https://skillicons.dev)
 
