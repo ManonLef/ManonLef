@@ -13,6 +13,8 @@
 
 This is the first year I've registered for [Hacktoberfest](https://hacktoberfest.com). Since I'm already contributing daily, I will not change my ways but I hope sharing this on top of my profile will inspire others to be generous with their meaningful contributions to open source ❤️
 
+[![An image of @manonlef's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manonlef)](https://holopin.io/@manonlef)
+
 ## About Me
 
 I've been a commercial pilot and aviation instructor during most of my working years. Now that I am not flying airplanes anymore I have decided to look into an equally fulfilling career change. I feel passionate about programming and am absolutely thrilled I found that new passion.
