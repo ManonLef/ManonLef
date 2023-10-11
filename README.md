@@ -5,7 +5,7 @@
   
 ![profile programming](https://github.com/ManonLef/ManonLef/assets/81025586/768ad770-ad45-4453-ae8a-adbad1553923)
 
-<img src="https://komarev.com/ghpvc/?username=ManonLef&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=ManonLef&style=flat&color=ff69b4" alt=""/>
 
 </div>
 
