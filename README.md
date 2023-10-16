@@ -23,7 +23,7 @@ I am still running my own business(es). One is in type, design, print, and illus
 
 During my programming journey, I try to help out fellow learners as I can, either through Discord, or by contributing to open-source projects aimed at teaching. In June 2023 I became part of the maintainer team for [The Odin Project](https://github.com/TheOdinProject) and I am honoured, humbled and excited to be able to contribute to such an amazing resource alongside professionals and fellow contributors in the field.
 
-## Recent Progress
+## Recent Projects
 
 I'm following along with [The Odin Project Curriculum](https://github.com/TheOdinProject/curriculum) which is aimed at full stack development and instilling the programmer mindset, honing problem-solving skills and mainly building things on your own, from scratch, utilizing the documentation and your own research. 
 
@@ -34,9 +34,9 @@ Some recent Projects I've worked on:
 - [Binary Search Tree](https://github.com/ManonLef/bst): I'm sharing this one instead of my Knights Travails for I feel like the BST exercise was the most elaborate of the Computer Science projects to figure out.
 - [BattleShip](https://github.com/ManonLef/battleship): A project that starts out with writing tests in Jest
 
-## Currently Learning
+## Currently Working on
 
-Currently I'm learning about routing, fetching data in React and testing with Vitest. I'm close to the final project for React which will be an e-commerce site project.
+Currently I'm working on [a shopping site](https://github.com/ManonLef/tdd-e-commerce) to implement what I've learned about data fetching, routing, hooks and TDD in React.
 
 [![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind)](https://skillicons.dev)
 
