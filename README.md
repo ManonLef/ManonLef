@@ -28,6 +28,7 @@ During my programming journey, I try to help out fellow learners as I can, eithe
 I'm following along with [The Odin Project Curriculum](https://github.com/TheOdinProject/curriculum) which is aimed at full stack development and instilling the programmer mindset, honing problem-solving skills and mainly building things on your own, from scratch, utilizing the documentation and your own research. 
 
 Some recent Projects I've worked on:
+- MVP finished (some feats still in progress): [A Webshop](https://github.com/ManonLef/tdd-e-commerce) built using Vite and React, testing with RTL and Vitest
 - Latest: [HeartStone themed memory game](https://github.com/ManonLef/memory-card) using Vite and React
 - [CV Builder app](https://github.com/ManonLef/cv-app) with React
 - [Weather App](https://github.com/ManonLef/weather-app): Mainly to get a feel for working with API's and async code
@@ -36,7 +37,7 @@ Some recent Projects I've worked on:
 
 ## Currently Working on
 
-Currently I'm working on [a shopping site](https://github.com/ManonLef/tdd-e-commerce) to implement what I've learned about data fetching, routing, hooks and TDD in React.
+While I'll be finetuning and ticking things from my shopping cart final to-do list, I'm finishing up the frontend section of The Odin Project. The only thing I still want to do is the Portfolio project which I've postponed to do with React. Until the end of the year I'll be taking a detour from the curriculum to intern using C# and .NET 🎉
 
 [![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind)](https://skillicons.dev)
 
