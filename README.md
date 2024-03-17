@@ -9,11 +9,9 @@
 
 </div>
 
-## Hacktoberfest
+## Latest update - March 2024
 
-This is the first year I've registered for [Hacktoberfest](https://hacktoberfest.com). Since I'm already contributing daily, I will not change my ways but I hope sharing this on top of my profile will inspire others to be generous with their meaningful contributions to open source ❤️
-
-[![An image of @manonlef's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manonlef)](https://holopin.io/@manonlef)
+I've been writing code for a local company since November 2023!!! I'm very excited about these first steps into a professional dev environment. I've created my own full stack feature, a custom dashboard. This was my first back end experience. Also my first time using .NET, C#, SQL, Angular and TS. 
 
 ## About Me
 
@@ -25,11 +23,12 @@ During my programming journey, I try to help out fellow learners as I can, eithe
 
 ## Recent Projects
 
-I'm following along with [The Odin Project Curriculum](https://github.com/TheOdinProject/curriculum) which is aimed at full stack development and instilling the programmer mindset, honing problem-solving skills and mainly building things on your own, from scratch, utilizing the documentation and your own research. 
+I've learned nearly everything I know about programming through [The Odin Project Curriculum](https://github.com/TheOdinProject/curriculum) which is aimed at full stack development and instilling the programmer mindset, honing problem-solving skills and mainly building things on your own, from scratch, utilizing the documentation and your own research. 
 
 Some recent Projects I've worked on:
-- MVP finished (some feats still in progress): [A Webshop](https://github.com/ManonLef/tdd-e-commerce) built using Vite and React, testing with RTL and Vitest
-- Latest: [HeartStone themed memory game](https://github.com/ManonLef/memory-card) using Vite and React
+
+- Latest: [A shopping cart React project](https://github.com/ManonLef/tdd-e-commerce) built using Vite and React, testing with RTL and Vitest
+- [HeartStone themed memory game](https://github.com/ManonLef/memory-card) using Vite and React
 - [CV Builder app](https://github.com/ManonLef/cv-app) with React
 - [Weather App](https://github.com/ManonLef/weather-app): Mainly to get a feel for working with API's and async code
 - [Binary Search Tree](https://github.com/ManonLef/bst): I'm sharing this one instead of my Knights Travails for I feel like the BST exercise was the most elaborate of the Computer Science projects to figure out.
@@ -37,13 +36,11 @@ Some recent Projects I've worked on:
 
 ## Currently Working on
 
-While I'll be finetuning and ticking things from my shopping cart final to-do list, I'm finishing up the frontend section of The Odin Project. The only thing I still want to do is the Portfolio project which I've postponed to do with React. Until the end of the year I'll be taking a detour from the curriculum to intern using C# and .NET 🎉
-
-[![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind)](https://skillicons.dev)
+Company code, which explains my diminished GH activity. If you see me active here, I'm probably maintaining for The Odin Project or playing with code for getting more comfortable in my current stack. 
 
 ## Tools I Have Been Using So Far
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,webpack,jest,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,html,css,git,webpack,jest,azure,github,visualstudio,vscode)](https://skillicons.dev)
 
 ## Some of the Tools I Have Prior Experience With
 
