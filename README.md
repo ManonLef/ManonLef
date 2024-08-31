@@ -9,9 +9,9 @@
 
 </div>
 
-## Latest update - March 2024
+## Latest update - August 2024
 
-I've been writing code for a local company since November 2023!!! I'm very excited about these first steps into a professional dev environment. I've created my own full stack feature, a custom dashboard. This was my first back end experience. Also my first time using .NET, C#, SQL, Angular and TS. 
+I've been interning for a local company since November 2023 and they hired me in 2024!!! I'm very excited about my first job in a professional dev environment. I started there with creating my own full stack feature, a custom dashboard. This was my first back end experience. Also my first time using .NET, C#, SQL, Angular and TS. I'm currently on a different project, still working with .NET and C# but more geared towards software and now also using XAML.
 
 ## About Me
 
