@@ -9,15 +9,15 @@
 
 </div>
 
-## Latest update - August 2024
+## Latest update - 2025
 
-I've been interning for a local company since November 2023 and they hired me in 2024!!! I'm very excited about my first job in a professional dev environment. I started there with creating my own full stack feature, a custom dashboard. This was my first back end experience. Also my first time using .NET, C#, SQL, Angular and TS. I'm currently on a different project, still working with .NET and C# but more geared towards software and now also using XAML.
+I started my first job as a paid intern in November 2023 and they hired me shortly after! I started there with creating my own full stack feature, a custom dashboard. This was my first back end experience. It was also my first time using .NET, C#, SQL, Angular and TS. Soon after I got my own project to work on which was mostly WPF POS software. 
 
 ## About Me
 
 I've been a commercial pilot and aviation instructor during most of my working years. Now that I am not flying airplanes anymore I have decided to look into an equally fulfilling career change. I feel passionate about programming and am absolutely thrilled I found that new passion.
 
-I am still running my own business(es). One is in type, design, print, and illustration and the other is aviation consultancy and teaching. You can however find me writing code and learning new tools mostly daily ever since I've set my mind to becoming a hirable programmer. 
+Next to my programming career, I am still running my own business(es) on the side. One is in type, design, print, and illustration and the other is aviation consultancy and teaching.
 
 During my programming journey, I try to help out fellow learners as I can, either through Discord, or by contributing to open-source projects aimed at teaching. In June 2023 I became part of the maintainer team for [The Odin Project](https://github.com/TheOdinProject) and I am honoured, humbled and excited to be able to contribute to such an amazing resource alongside professionals and fellow contributors in the field.
 
@@ -25,7 +25,7 @@ During my programming journey, I try to help out fellow learners as I can, eithe
 
 I've learned nearly everything I know about programming through [The Odin Project Curriculum](https://github.com/TheOdinProject/curriculum) which is aimed at full stack development and instilling the programmer mindset, honing problem-solving skills and mainly building things on your own, from scratch, utilizing the documentation and your own research. 
 
-Some recent Projects I've worked on:
+Some of the TOP Projects I've worked on:
 
 - Latest: [A shopping cart React project](https://github.com/ManonLef/tdd-e-commerce) built using Vite and React, testing with RTL and Vitest
 - [HeartStone themed memory game](https://github.com/ManonLef/memory-card) using Vite and React
@@ -34,9 +34,6 @@ Some recent Projects I've worked on:
 - [Binary Search Tree](https://github.com/ManonLef/bst): I'm sharing this one instead of my Knights Travails for I feel like the BST exercise was the most elaborate of the Computer Science projects to figure out.
 - [BattleShip](https://github.com/ManonLef/battleship): A project that starts out with writing tests in Jest
 
-## Currently Working on
-
-Company code, which explains my diminished GH activity. If you see me active here, I'm probably maintaining for The Odin Project or playing with code for getting more comfortable in my current stack. 
 
 ## Tools I Have Been Using So Far
 
