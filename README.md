@@ -11,7 +11,7 @@
 
 ## Latest update - 2025
 
-I started my first job as a paid intern in November 2023 and they hired me shortly after! I started there with creating my own full stack feature, a custom dashboard. This was my first back end experience. It was also my first time using .NET, C#, SQL, Angular and TS. Soon after I got my own project to work on which was mostly WPF POS software. 
+I started my first developer job as a paid intern in November 2023 and they hired me shortly after! I started there with creating my own full stack feature, a custom dashboard. This was my first back end experience. It was also my first time using .NET, C#, SQL, Angular and TS. Soon after I got my own project to work on which was mostly WPF POS software. 
 
 ## About Me
 
