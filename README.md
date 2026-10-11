@@ -5,15 +5,15 @@
   
 ![profile programming](https://github.com/ManonLef/ManonLef/assets/81025586/768ad770-ad45-4453-ae8a-adbad1553923)
 
-<img src="https://komarev.com/ghpvc/?username=ManonLef&style=flat&color=ff69b4" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=ManonLef&style=flat&color=ff69b4" alt="profile views counter"/>
 
 </div>
 
-## 2025 November Update
+## What I'm up to professionally
 
 I started my first developer job as a paid intern in November 2023 and they hired me shortly after! I started there with creating my own full stack feature, a custom dashboard. This was my first back end experience. It was also my first time using .NET, C#, SQL, Angular and TS. Once I got hired, I got my own project, a WPF based POS system. 
 
-In October 2025 I accepted a new job opportunity at a different company. So far I've been enjoying it a lot. I'm mostly working full stack but I also took a dive into setting up E2E tests on our PR pipeline and a first move towards a Docker based approach. That project is broadening my skillset with some new knowledge regarding Azure, Azure DevOps, Terraform, Docker, Playwright and Infra in general.
+In October 2025 I accepted a new job opportunity at a different company. I'm mostly working full stack but I also took a dive into setting up E2E tests on our PR pipeline and a first move towards a Docker based approach. That project is broadening my skillset with some new knowledge regarding Azure, Azure DevOps, Terraform, Docker, Playwright and Infra in general. I've been actively involved with getting our company ISO certified and meeting a11y standards.
 
 ## About Me
 
